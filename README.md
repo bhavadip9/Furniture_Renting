@@ -1,1 +1,1 @@
-This is a project of Furniture Renting System using MERN stack .
+This is a Furniture Renting System Project using MERN stack.
